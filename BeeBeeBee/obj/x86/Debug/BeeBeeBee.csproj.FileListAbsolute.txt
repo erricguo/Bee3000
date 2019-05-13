@@ -1,0 +1,383 @@
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+c:\users\eric\documents\visual studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+L:\專題\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+L:\專題\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\專題\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\S.XP\My Documents\Visual Studio 2010\Projects\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\78787\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\S.XP\桌面\新資料夾\新資料夾\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\78787\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\S.XP\桌面\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\新增資料夾 (5)\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\All Users\Documents\新資料夾\1000822\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\進度\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB.mdf
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeDB_log.ldf
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\All Users\Documents\新資料夾\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_BackToTitle.resources
+C:\Users\Eric\Desktop\1000824\1000824\1000823\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_ExitGame.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_BackToTitle.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_ExitGame.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\進度\1000827\BeeBeeBee\BeeBeeBee\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csprojResolveAssemblyReference.cache
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_BackToTitle.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_ExitGame.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.GenerateResource.Cache
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+H:\Erric\進度\1000827_1\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csprojAssemblyReference.cache
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\Interop.WMPLib.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.ResolveComReference.cache
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_BackToTitle.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_ExitGame.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_GameTips.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Info.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Main.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Play.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_PlayerInfo.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Select.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Form_Store.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.Properties.Resources.resources
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.GenerateResource.cache
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.CoreCompileInputs.cache
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.exe
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.pdb
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe.config
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.exe
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\BeeBeeBee.pdb
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.xml
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\Interop.WMPLib.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\bin\Debug\AxInterop.WMPLib.dll
+D:\Erric\GitHub\BeeBeeBee\BeeBeeBee\obj\x86\Debug\BeeBeeBee.csproj.CopyComplete
